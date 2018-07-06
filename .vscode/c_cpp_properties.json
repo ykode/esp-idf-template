@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}/build/include",
+                "/Volumes/CROSS/esp-idf/components",
+                "/Volumes/CROSS/esp-idf/components/heap/include",
+                "/Volumes/CROSS/esp-idf/components/esp32/include",
+                "/Volumes/CROSS/esp-idf/components/freertos/include",
+                "/Volumes/CROSS/esp-idf/components/tcpip_adapter/include",
+                "/Volumes/CROSS/esp-idf/components/lwip/include/lwip",
+                "/Volumes/CROSS/esp-idf/components/lwip/include/lwip/port",
+                "/Volumes/CROSS/esp-idf/components/newlib/include",
+                "/Volumes/CROSS/esp-idf/components/driver/include",
+                "/Volumes/CROSS/esp-idf/components/log/include",
+                "/Volumes/CROSS/esp-idf/components/nvs_flash/include",
+                "/Volumes/CROSS/esp-idf/components/soc/esp32/include",
+                "/Volumes/CROSS/esp-idf/components/soc/include/",
+                "/Volumes/CROSS/x-tools/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "/Volumes/CROSS/x-tools/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0" 
+            ],
+            "browse": {
+              "limitSymbolsToIncludedHeaders": true,
+              "databaseFilename": "",
+              "path": [
+                "${workspaceRoot}/build/include",
+                "/Volumes/CROSS/esp-idf/components",
+                "/Volumes/CROSS/esp-idf/components/heap/include/",
+                "/Volumes/CROSS/esp-idf/components/esp32/include",
+                "/Volumes/CROSS/esp-idf/components/freertos/include",
+                "/Volumes/CROSS/esp-idf/components/tcpip_adapter/include", 
+                "/Volumes/CROSS/esp-idf/components/lwip/include/lwip",
+                "/Volumes/CROSS/esp-idf/components/lwip/include/lwip/port",
+                "/Volumes/CROSS/esp-idf/components/newlib/include",
+                "/Volumes/CROSS/esp-idf/components/driver/include",
+                "/Volumes/CROSS/esp-idf/components/log/include",
+                "/Volumes/CROSS/esp-idf/components/nvs_flash/include",
+                "/Volumes/CROSS/esp-idf/components/soc/esp32/include",
+                "/Volumes/CROSS/esp-idf/components/soc/include/",
+                "/Volumes/CROSS/x-tools/xtensa-esp32-elf/lib/gcc/xtensa-esp32-elf/5.2.0/include",
+                "/Volumes/CROSS/x-tools/xtensa-esp32-elf/xtensa-esp32-elf/include/c++/5.2.0" 
+              ]
+            }
+        }
+    ],
+    "version": 4
+}
